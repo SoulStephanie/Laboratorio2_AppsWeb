@@ -1,0 +1,38 @@
+h2 {
+    font-size: 60px; 
+    text-align: center; 
+    margin-bottom: 10px; 
+    background-color: pink; 
+    color: white; 
+  }
+
+nav {
+    text-align: center;
+}
+
+address{
+    text-align: center;
+}
+
+fieldset{
+    font-weight: bold; 
+}
+
+img{
+    padding-right: 40px; 
+}
+
+h8{
+    text-decoration: underline;
+    text-decoration-color: black;
+    text-decoration-style: inherit;
+}
+
+footer{
+    color:plum;
+    font-style: oblique; 
+    font-size: 16px;
+    font-weight: bolder;
+    text-align: right;
+
+}
